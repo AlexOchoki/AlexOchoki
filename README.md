@@ -9,7 +9,7 @@ I write code, SQL, and DAX, and I enjoy diving deep into data to surface the *ge
 
 
 ### 🔗 Connect
-<a href="mailto:alex.ochoki01@gmail.com">
+<a href="mailto:ochokialeks@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/alex-mogengo-19107994/" target="_blank">
