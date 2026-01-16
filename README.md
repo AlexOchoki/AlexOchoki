@@ -24,8 +24,8 @@ I write code, SQL, and DAX, and I enjoy diving deep into data to surface the *ge
 <p>
   <img alt="Power BI" height="28" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000" />
   <img alt="SQL Server" height="28" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
-  <img alt="DAX" height="28" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" />
-  <img alt="Microsoft Fabric" height="28" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Fabric.svg" />
+  <img alt="DAX" height="28" src="images/dax.svg" />
+  <img alt="Microsoft Fabric" height="28" src="images/fabric.svg" />
   <img alt="Azure" height="28" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
   <img alt="Python" height="28" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img alt="Git" height="28" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
