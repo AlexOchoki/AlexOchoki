@@ -7,7 +7,6 @@ I design analytics solutions **end-to-end** — from **extracting data**, **clea
 My engineering background brings a **methodical, systems-driven approach** to solving business problems.  
 I write code, SQL, and DAX, and I enjoy diving deep into data to surface the *gems that actually drive decisions*.
 
-📌 Selected work showcased in pinned repositories ↓
 
 ---
 
