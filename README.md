@@ -1,6 +1,6 @@
 ## Alex Ochoki
 
-# 💫 About Me:
+# About Me:
 Analytics Engineer · BI & Data Analytics<br><br>I design analytics solutions end-to-end — from extracting data, cleaning & transforming, storage, data modelling, to building insightful, actionable visualisations.<br><br>My engineering background brings a methodical, systems-driven approach to solving business problems.<br>I write code, SQL, and DAX, and I enjoy diving deep into data to surface the gems that actually drive decisions.
 
 
